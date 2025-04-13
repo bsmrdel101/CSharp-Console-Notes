@@ -1,0 +1,14 @@
+C:\Users\firek\Desktop\tutorial\bin\Debug\net9.0\tutorial.exe
+C:\Users\firek\Desktop\tutorial\bin\Debug\net9.0\tutorial.deps.json
+C:\Users\firek\Desktop\tutorial\bin\Debug\net9.0\tutorial.runtimeconfig.json
+C:\Users\firek\Desktop\tutorial\bin\Debug\net9.0\tutorial.dll
+C:\Users\firek\Desktop\tutorial\bin\Debug\net9.0\tutorial.pdb
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\tutorial.AssemblyInfoInputs.cache
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\tutorial.AssemblyInfo.cs
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\tutorial.csproj.CoreCompileInputs.cache
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\tutorial.dll
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\refint\tutorial.dll
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\tutorial.pdb
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\tutorial.genruntimeconfig.cache
+C:\Users\firek\Desktop\tutorial\obj\Debug\net9.0\ref\tutorial.dll
